@@ -6,5 +6,6 @@ git diff
 git log
 git log --pretty=oneline
 git reset --hard
+git reset HEAD gitcmd.txt
 git reflog
 git checkout -- readme.txt
