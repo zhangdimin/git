@@ -1,0 +1,10 @@
+git add test.txt
+git commit -m "test"
+git init
+git status
+git diff
+git log
+git log --pretty=oneline
+git reset --hard
+git reflog
+git checkout -- file
