@@ -9,3 +9,9 @@ git reset --hard
 git reset HEAD gitcmd.txt
 git reflog
 git checkout -- readme.txt
+
+remote
+git remote add origin git@github.com:zhangdimin/git.git
+git push -u origin master
+git remote -v
+git remote rm origin
